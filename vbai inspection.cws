@@ -1,6 +1,7 @@
 [Workspace Header]
 Version = 2000
-Pathname = "/c/Users/EOLT E-TOGGLE/Desktop/job camera ST80/cvi proj/vbai inspection.cws"
+Pathname Line0001 = "/c/Users/hakim/Documents/work 24/NI vision Etoggle/VisionBuilder-LabWindows-Inte"
+Pathname Line0002 = "gration/vbai inspection.cws"
 CVI Dir = "/c/program files (x86)/national instruments/cvi2020"
 CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
 CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2020"
@@ -12,11 +13,11 @@ VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
 Number of Projects = 1
 Active Project = 1
 Project 0001 = "vbai inspection.prj"
-Drag Bar Left = 271
-Window Top = 356
-Window Left = 628
-Window Bottom = 819
-Window Right = 1128
+Drag Bar Left = 344
+Window Top = 31
+Window Left = 8
+Window Bottom = 816
+Window Right = 774
 Maximized = True
 Maximized Children = True
 Max32 Number Of Errors = 20
@@ -30,9 +31,9 @@ Save Changes Before Compiling = "Always"
 Hide Windows = False
 Break At First Statement = False
 Sort Type = "File Name"
-Number of Opened Files = 3
+Number of Opened Files = 2
 Window Confinement Region Enabled = True
-MainColumnWidth = 254
+MainColumnWidth = 327
 FileDateColumnWidth = 70
 FileSizeColumnWidth = 70
 
@@ -46,19 +47,18 @@ Batch Build Release = False
 Batch Build Debug = False
 
 [File 0001]
-Path = "/c/Users/EOLT E-TOGGLE/Desktop/job camera ST80/cvi proj/vbai inspection.c"
+Path Line0001 = "/c/Users/hakim/Documents/work 24/NI vision Etoggle/VisionBuilder-LabWindows-Inte"
+Path Line0002 = "gration/vbai inspection.c"
 File Type = "CSource"
-Disk Date = 3810555642
+Disk Date = 3810632985
 In Projects = "1,"
-Source Window State = "1,79,79,79,0,0,0,0,0,0,0,0,0,0,0,0,72,0,79,0,251,490,1,0,"
-Breakpoint 0001 = "78,0,enabled,"
-Tracepoint 0001 = "0,0,79,1,"
-Breakpoint 0002 = "84,0,enabled,"
-Tracepoint 0002 = "0,0,81,1,"
-Breakpoint 0003 = "87,0,enabled,"
-Tracepoint 0003 = "0,0,63,1,"
-Breakpoint 0004 = "88,0,enabled,"
-Tracepoint 0004 = "0,0,64,1,"
+Source Window State = "1,67,67,67,0,0,0,0,0,0,0,0,0,0,0,0,60,0,67,0,251,490,1,0,"
+Breakpoint 0001 = "159,0,enabled,"
+Tracepoint 0001 = "0,0,161,1,"
+Breakpoint 0002 = "163,0,enabled,"
+Tracepoint 0002 = "0,0,63,1,"
+Breakpoint 0003 = "164,0,enabled,"
+Tracepoint 0003 = "0,0,64,1,"
 Window Top = 33
 Window Left = 10
 Window Z-Order = 1
@@ -68,13 +68,14 @@ Path = "/c/Program Files (x86)/National Instruments/Shared/CVI/Include/VBAIInter
 File Type = "Include"
 Disk Date = 3771222444
 In Projects = ""
-Source Window State = "1,676,677,676,34,0,34,0,3,0,0,0,0,0,0,0,673,0,677,0,221,630,1,0,"
+Source Window State = "1,690,690,690,21,21,21,0,0,0,0,0,0,0,0,0,673,0,690,21,221,630,1,0,"
 Window Top = 95
 Window Left = 42
 Window Z-Order = 2
 
 [File 0003]
-Path = "/c/Users/EOLT E-TOGGLE/Desktop/job camera ST80/cvi proj/vbai inspection.uir"
+Path Line0001 = "/c/Users/hakim/Documents/work 24/NI vision Etoggle/VisionBuilder-LabWindows-Inte"
+Path Line0002 = "gration/vbai inspection.uir"
 File Type = "User Interface Resource"
 Disk Date = 3810296098
 In Projects = "1,"
@@ -85,7 +86,8 @@ Window Width = 630
 
 [Tab Order]
 Tab 0001 = "/c/Program Files (x86)/National Instruments/Shared/CVI/Include/VBAIInterfaceC.h"
-Tab 0002 = "/c/Users/EOLT E-TOGGLE/Desktop/job camera ST80/cvi proj/vbai inspection.c"
+Tab 0002 Line0001 = "/c/Users/hakim/Documents/work 24/NI vision Etoggle/VisionBuilder-LabWindows-Inte"
+Tab 0002 Line0002 = "gration/vbai inspection.c"
 
 [Default Build Config 0001 Debug]
 Generate Browse Info = True
@@ -144,7 +146,7 @@ Enable Uninitialized Locals Runtime Warning = True
 Execution Trace = "Disabled"
 Profile = "Disabled"
 Debugging Level = "Standard"
-Break On Library Errors = True
+Break On Library Errors = False
 Break On First Chance Exceptions = False
 
 [Execution Target 0001]
