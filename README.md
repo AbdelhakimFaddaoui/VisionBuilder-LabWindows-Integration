@@ -18,7 +18,7 @@ This project is a software solution developed using **LabWindows/CVI** that inte
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/repo-name.git
+    git clone https://github.com/hakimF37/VisionBuilder-LabWindows-Integration.git
     ```
 2. Open the project in **LabWindows/CVI**.
 3. Ensure that **Vision Builder AI** is installed and correctly configured with your cameras.
