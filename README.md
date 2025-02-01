@@ -38,3 +38,11 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any questions or issues, feel free to open an issue or contact me at hakim.f37@gmail.com.
+
+---
+
+### Buy Me a Coffee
+
+If you find this project helpful or enjoyable, consider supporting me by buying me a coffee! Your support helps me continue working on open-source projects and creating more useful tools.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/abdelhakimfaddaoui)
